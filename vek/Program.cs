@@ -19,10 +19,11 @@ namespace vek
                 vek = aktualnirok - roknarozeni;
                 Console.WriteLine($"tvuj vek je {vek}");
 
-
                 Console.ReadLine();
             }
         }
-        static void Frameboard; 
+        static void Program.Frameboard();
+
+
     }
 }
